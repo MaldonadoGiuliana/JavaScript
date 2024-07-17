@@ -30,4 +30,4 @@ function calcular(numero1, numero2, operacionMatematica){
     }
 }
 let resultado = calcular(num1, num2 , operacion);
-alert("El resultado es: " + resultado)
+alert("El resultado es: " + resultado);
