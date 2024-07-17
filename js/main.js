@@ -29,3 +29,5 @@ function calcular(numero1, numero2, operacionMatematica){
             return "Operacion invalida";    
     }
 }
+let resultado = calcular(num1, num2 , operacion);
+alert("El resultado es: " + resultado)
